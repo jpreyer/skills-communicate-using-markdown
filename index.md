@@ -9,3 +9,9 @@
 ```
 ps -aux|grep apache
 ```
+
+- [x] Wake up
+- [ ] Work out
+- [ ] Shower
+- [ ] Get dressed
+- [ ] Eat breakfast
